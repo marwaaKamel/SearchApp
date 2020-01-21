@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SearchApp</string>
+    <string name="search_for_anything">Search for anything</string>
+    <string-array name="my_menu">
+        <item>Clothing</item>
+        <item>Jewelry</item>
+        <item>Books</item>
+    </string-array>
+</resources>
